@@ -1,0 +1,16 @@
+path: /content/drive/MyDrive/yolo
+train: images/train
+val: images/val
+nc: 11
+names:
+- coin
+- compass
+- coral
+- crystal
+- diamond
+- emerald
+- fossil
+- key
+- letter
+- shell
+- treasure_box
